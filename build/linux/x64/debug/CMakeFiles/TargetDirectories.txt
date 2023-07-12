@@ -1,0 +1,14 @@
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/install.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/CMakeFiles/api_project.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/gustavo/Documents/projetoflutter/flutter_api_project/api_project/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
